@@ -1,0 +1,10 @@
+How to access the program
+1.install pip
+*first uninstall your python
+while reinstalling first check both boxes before installing it(for reference check the image named python pip)
+
+2.install PIL using command prompt 
+  use this code- pip install pillow
+
+3.remember that your program file and secure.png image remain in same folder
+
